@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hải</h1>
 <h3 align="center">Hi! I'm passionate about the intersection of philosophy, science, IT, and finance. I believe every challenge brings opportunities for growth and innovation.</h3>
 
-- 🔭 I’m currently working on [HaiFinance](haifinance.xyz)
+- 🔭 I’m currently working on [HaiFinance](https://haifinance.xyz)
 
 - 🌱 I’m currently learning **Java, C, C++, C#, VBA, Ruby, TypeScript,...**
 
